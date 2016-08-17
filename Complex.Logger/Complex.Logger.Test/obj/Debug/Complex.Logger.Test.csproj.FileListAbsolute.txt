@@ -1,0 +1,39 @@
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.Test.dll.config
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.Test.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.Test.pdb
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Core.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Windsor.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Moq.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\nunit.framework.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.pdb
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Core.xml
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Windsor.xml
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\Moq.xml
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\bin\Debug\nunit.framework.xml
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\obj\Debug\Complex.Logger.Test.csprojResolveAssemblyReference.cache
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\obj\Debug\Complex.Logger.Test.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger.Test\obj\Debug\Complex.Logger.Test.pdb
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.Test.dll.config
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.Test.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.Test.pdb
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Core.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Windsor.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Moq.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\nunit.framework.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Complex.Logger.pdb
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Core.xml
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Castle.Windsor.xml
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Moq.xml
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\nunit.framework.xml
+F:\Complex.Logger\Complex.Logger.Test\obj\Debug\Complex.Logger.Test.csprojResolveAssemblyReference.cache
+F:\Complex.Logger\Complex.Logger.Test\obj\Debug\Complex.Logger.Test.dll
+F:\Complex.Logger\Complex.Logger.Test\obj\Debug\Complex.Logger.Test.pdb
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Mono.Cecil.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\Mono.Cecil.Rocks.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\nunit.engine.api.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\nunit.engine.dll
+F:\Complex.Logger\Complex.Logger.Test\bin\Debug\NUnit3.TestAdapter.dll

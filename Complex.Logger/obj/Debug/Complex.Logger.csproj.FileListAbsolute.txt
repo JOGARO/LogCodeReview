@@ -1,0 +1,17 @@
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\bin\Debug\Complex.Logger.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\bin\Debug\Complex.Logger.pdb
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\bin\Debug\Castle.Core.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\bin\Debug\Castle.Windsor.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\bin\Debug\Castle.Core.xml
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\bin\Debug\Castle.Windsor.xml
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\obj\Debug\Complex.Logger.dll
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\obj\Debug\Complex.Logger.pdb
+c:\users\jromaina\documents\visual studio 2015\Projects\Complex.Logger\Complex.Logger\obj\Debug\Complex.Logger.csprojResolveAssemblyReference.cache
+F:\Complex.Logger\Complex.Logger\obj\Debug\Complex.Logger.dll
+F:\Complex.Logger\Complex.Logger\obj\Debug\Complex.Logger.pdb
+F:\Complex.Logger\Complex.Logger\bin\Debug\Complex.Logger.dll
+F:\Complex.Logger\Complex.Logger\bin\Debug\Complex.Logger.pdb
+F:\Complex.Logger\Complex.Logger\bin\Debug\Castle.Core.dll
+F:\Complex.Logger\Complex.Logger\bin\Debug\Castle.Windsor.dll
+F:\Complex.Logger\Complex.Logger\bin\Debug\Castle.Core.xml
+F:\Complex.Logger\Complex.Logger\bin\Debug\Castle.Windsor.xml
